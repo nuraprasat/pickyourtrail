@@ -2,7 +2,7 @@
 
 Run each class file as simple java application, If you are running in eclipse give the input in the console.
 or
-javac classname.java - give each class name
+javac classname.java - give each class name and  
 java classname inputs
 
 Example 1:
